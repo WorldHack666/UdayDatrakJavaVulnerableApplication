@@ -1,0 +1,5 @@
+<!-- back up java code--!>
+<%
+String abcd=request.getParamater("url");
+    response.sendRedirect(abcd);
+%>
